@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Bsp_102_GuestBook:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Bsp_102_GuestBook</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Bsp_102_GuestBook-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Bsp_102_GuestBook:war exploded" />
+    </root>
+  </artifact>
+</component>
